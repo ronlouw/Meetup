@@ -1,0 +1,7 @@
+---
+Test
+---
+|script                                          |
+|open |http://demo.seleniuminaction.com/index.php|
+|click|Sign in                                   |
+|enter|test@email.com      |as     |id=email     |

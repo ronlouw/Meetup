@@ -1,0 +1,10 @@
+|script                                          |
+|open |http://demo.seleniuminaction.com/index.php|
+|click|Sign in                                   |
+|enter|test@email.com    |as    |Email address   |
+|click|id=SubmitCreate                           |
+|click|Mr.                                       |
+|enter|First             |as    |First name      |
+|enter|Last              |as    |Last name       |
+|enter|Password          |as    |Password        |
+|click|Register                                  |
