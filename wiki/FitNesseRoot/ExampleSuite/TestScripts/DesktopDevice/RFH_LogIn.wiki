@@ -1,0 +1,10 @@
+---
+Test
+---
+|script                                                            |
+|open |https://www-acc.royalfloraholland.com                       |
+|click|Log in                                                      |
+|enter|ac035503    |as|id=ctl00_ContentPlaceHolder1_UsernameTextBox|
+|enter|Testaccount1|as|id=ctl00_ContentPlaceHolder1_PasswordTextBox|
+|click|id=ctl00_ContentPlaceHolder1_SubmitButton|
+|
